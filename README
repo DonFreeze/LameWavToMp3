@@ -1,0 +1,7 @@
+READEME
+
+You need to install the lame library:
+
+sudo apt-get install libmp3lame-dev
+
+and link -lmp3lame 
